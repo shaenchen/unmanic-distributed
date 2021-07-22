@@ -1,0 +1,19 @@
+{
+  "name": "unmanic-distributed",
+  "version": "1.0.0",
+  "description": "personal/unmanic-distributed",
+  "author": "Steve Haenchen <steve@haenchen.dev>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=DEV node index.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.0.0",
+    "axios": "^0.21.1",
+    "json-log-viewer": "^0.1.2",
+    "mongodb": "^3.6.5",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.1"
+  }
+}

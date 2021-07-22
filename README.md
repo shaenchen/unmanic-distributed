@@ -1,2 +1,2 @@
 # unmanic-distributed
-Send unmanic jobs to remote instances
+Send unmanic (https://github.com/Unmanic/unmanic) jobs to remote instances.
